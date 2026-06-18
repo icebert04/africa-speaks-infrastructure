@@ -59,7 +59,9 @@ Email: contact@passportturtles.com
 
 ### 🐢 How to Onboard Instantly:
 1. **Fork** this repository.
-2. Clone it down and check out our active branches or issues tagged `help-wanted` or `africaspeaks-priority`.
+2. Clone it down and check out our active branches or issues tagged `help-wanted` or `africaspeaks-priority`. <br>
+For tracking real field hardware drops `bug_report.md` <br>
+For cohort leaders designing new Micro-SPVs `feature_request.md`
 3. Drop into our Discord hub to claim your Friday Live Jam ticket, meet fellow builders, and grab your setup environment.
 
 [Join our Discord](https://discord.com/invite/yjt6N3yZwS)
